@@ -451,30 +451,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Allan\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/quanpham/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\2022\\Azure-Recorded\\AZ-204\\2. Develop Azure compute solutions - Azure Web Apps\\6. Populating our database with data\\sqlapp\\sqlapp\\sqlapp.csproj",
+      "projectUniqueName": "/Users/quanpham/Downloads/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/sqlapp.csproj",
       "projectName": "sqlapp",
-      "projectPath": "C:\\2022\\Azure-Recorded\\AZ-204\\2. Develop Azure compute solutions - Azure Web Apps\\6. Populating our database with data\\sqlapp\\sqlapp\\sqlapp.csproj",
-      "packagesPath": "C:\\Users\\Allan\\.nuget\\packages\\",
-      "outputPath": "C:\\2022\\Azure-Recorded\\AZ-204\\2. Develop Azure compute solutions - Azure Web Apps\\6. Populating our database with data\\sqlapp\\sqlapp\\obj\\",
+      "projectPath": "/Users/quanpham/Downloads/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/sqlapp.csproj",
+      "packagesPath": "/Users/quanpham/.nuget/packages/",
+      "outputPath": "/Users/quanpham/Downloads/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Allan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/quanpham/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -521,7 +510,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }
